@@ -1,0 +1,349 @@
+fileFormatVersion: 2
+guid: 10130d2128fe8824ba6792cdf620c13f
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old_lady_eyes2_aiStandardSurface10
+    second: {fileID: 2100000, guid: 2ac9aa55b575636459d5658dfdb28795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old_lady_eyes2_aiStandardSurface11
+    second: {fileID: 2100000, guid: 722a45cb90ef8544e841eea7caceb9f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old_lady_eyes2_back
+    second: {fileID: 2100000, guid: 84864127d55a6d845ada7faf3f86d5b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old_lady_eyes2_reflection_eye
+    second: {fileID: 2100000, guid: d357562254e16854889856403f897116, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old_lady_teeth
+    second: {fileID: 2100000, guid: f74b08edccd74c047b9582ebf0112b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old_lady_teethhh1
+    second: {fileID: 2100000, guid: 78220282442f6dd44b9ef6cfc7580bc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body
+    second: {fileID: 2100000, guid: ea9ef22923eb6f6458f30f15f5290ef9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 72fa68b4abb776d4faebd108aee3f1d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert10
+    second: {fileID: 2100000, guid: 2c13f0841e125024abdaa231f69dc337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert11
+    second: {fileID: 2100000, guid: ec96c2fcc118f51498a7bf5db25e7bfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert12
+    second: {fileID: 2100000, guid: 507c439a0c09f1f46860211638929b08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: 20ff31104bc0ec74fb9b01fac15ec1c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert3
+    second: {fileID: 2100000, guid: f85a336270efb3249a887e98edc8cacd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 71483d931e680f2428e4f1aadfbe2299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert5
+    second: {fileID: 2100000, guid: 673b78a54225c994eac6826bd6977c08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert6
+    second: {fileID: 2100000, guid: 710b7c1526874774bbbf3b29470af786, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {fileID: 2100000, guid: f1376a9ec2c45ec4992f258f1b0d312e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert8
+    second: {fileID: 2100000, guid: 4b8f8c7ce26c4bf47a644d104d026452, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert9
+    second: {fileID: 2100000, guid: d0a62e616d62ab54e80bb923eaa3adc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ovi_rehead_face1
+    second: {fileID: 2100000, guid: 39b0830e4c5c7cf42b69611c30099c2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes1_diamonds_diamond_1
+    second: {fileID: 2100000, guid: 9e0421b68ce220449a72d03f91d8ea79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes1_diamonds_shoe_diamond
+    second: {fileID: 2100000, guid: 825f2b458c89d8a4eb9add16e5b1eb51, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blush emission 3
+    second: {fileID: 2800000, guid: 16e083979a61a40469b19bec6452e0c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: coat_lambert3_BaseColor_2
+    second: {fileID: 2800000, guid: 0cfc0ba8bc8d8f14f91acc310ce13efe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: coat_lambert3_Normal
+    second: {fileID: 2800000, guid: e1c3861669ab7b1489cb02951af46172, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: coat_shoes1_diamonds_aiStandardSurface7_BaseColor
+    second: {fileID: 2800000, guid: 5c218400d80e4184ca33182e068716a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ice_pic
+    second: {fileID: 2800000, guid: 5ed905168c619a243a30d101fc02475b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi body_lambert1_BaseColor
+    second: {fileID: 2800000, guid: c5f351548396ee74694c25eb6c41565b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi body_lambert1_Roughness
+    second: {fileID: 2800000, guid: 9b00f4e821d61c749a94efc410a5f62f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_Bottom wear_BaseColor
+    second: {fileID: 2800000, guid: 696e52684c4ed224a984017cb6e200dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_Bottom wear_Normal
+    second: {fileID: 2800000, guid: 9e445adae8b594c49ba39327cad4c458, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_Head band_BaseColor
+    second: {fileID: 2800000, guid: 545ba5736dc4bc84daa89acff17b8869, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_Head band_Height
+    second: {fileID: 2800000, guid: 40ee3e7e8e304a449b7ec0245309bc6e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_Inner dress_BaseColor
+    second: {fileID: 2800000, guid: 2da9f6140aeb86d4c8747868b1618cb9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_Inner dress_Normal
+    second: {fileID: 2800000, guid: 13e2359d98c68564eba768f3b28d1a3f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_Neck band_BaseColor
+    second: {fileID: 2800000, guid: ba3b2bd7d89c4ea408386cdd9ddf2819, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_Neck band_Normal
+    second: {fileID: 2800000, guid: 674abc2d240c2d0458ecbeb1eea615a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_hand band_BaseColor3
+    second: {fileID: 2800000, guid: 85820b1aa30345740a4b53939707d167, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi dress_hand band_Normal
+    second: {fileID: 2800000, guid: 44542c687f73e7a4898453e071768084, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi face_lambert1_Normal
+    second: {fileID: 2800000, guid: 72f15333b9d6e5644b3f4bfc7d3f80d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi face_lambert1_Roughness
+    second: {fileID: 2800000, guid: 00a96aa9a1003a24997d993901292793, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi hair_initialShadingGroup_BaseColor.1001
+    second: {fileID: 2800000, guid: 233d51cb8dd0ded429ddc5d23b24ec5d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi threads_lambert1_BaseColor
+    second: {fileID: 2800000, guid: 4676da4e75434e14ea4c9ea9e375f99f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ovi threads_lambert1_Normal
+    second: {fileID: 2800000, guid: 0793b56f7ca2e9c47bf07c7c431a88e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shoe_BaseColor_white_2
+    second: {fileID: 2800000, guid: c928263a7b4e54142a150082ccf23824, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uv of eyes
+    second: {fileID: 2800000, guid: 032e0f8decc81194eb4d90ba3c84cea2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uv of face texture
+    second: {fileID: 2800000, guid: 91314d0b0af6e944b85166c4860e000f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: uv of face texture 3
+    second: {fileID: 2800000, guid: 9de8cdc892e60854693737681705746c, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
