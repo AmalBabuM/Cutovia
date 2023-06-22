@@ -1,0 +1,718 @@
+fileFormatVersion: 2
+guid: 3fd535f6a96f6bb43a96887146c2494a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: activity 4 spritatls new_0
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 3345
+        width: 1331
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d5fa51e4264e9459459b432f0f01c4
+      internalID: -1354698441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3099
+        width: 1957
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26c039cec0a0884fa359ebef6ff3791
+      internalID: 1029817013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2878
+        width: 2150
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faf3d583859b634f997770f7d1cc336
+      internalID: 162070790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_3
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2399
+        width: 442
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28085b9ab5eb45d4b8e7df58b72797b9
+      internalID: 21277045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2399
+        width: 376
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a023b86662ea33409b63a94ba42412c
+      internalID: 1393023480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_5
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 2409
+        width: 645
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d0021b504be2440ba5a4ff7ade0f53
+      internalID: -622681557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_6
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 2396
+        width: 410
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a623540c6d4fa24f91a5e25bfdde5fc
+      internalID: -1791980321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_7
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2036
+        width: 275
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b18d09c267de64e87839aac67f8686
+      internalID: 1558478240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_8
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2024
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6383f48f9f0c844a164e4b72eab5f6
+      internalID: -124394677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_9
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 2024
+        width: 263
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d37fcc7bc72b2f4eb815329eb69a2a2
+      internalID: -2085911065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_10
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2019
+        width: 213
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468afccd3c0601b4ba1dbdb2aaa63a0f
+      internalID: -147513238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_14
+      rect:
+        serializedVersion: 2
+        x: 1995
+        y: 1661
+        width: 258
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b152535a026a91244a253754e41c09eb
+      internalID: -1424253147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1680
+        width: 212
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f79352fe3fcf6418a639987a8e5709
+      internalID: -946941847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_17
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1629
+        width: 234
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e0ffb219a260b4e93dacf201bcdd4b
+      internalID: -1733939804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_26
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1270
+        width: 379
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c062781a5103d478d2e38d2179c9c1
+      internalID: 563753524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_28
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1251
+        width: 278
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873c62d4818340a4998d959e20f8e6c7
+      internalID: -933664441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_29
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1241
+        width: 398
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d6d2b1e7e52f43b78c3bb6469b0e4
+      internalID: 227057737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1314
+        width: 231
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a4e1b744d153c4aa728a21836d1c9e
+      internalID: 1547993074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 926
+        width: 306
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9dca3d374432048989cff99b88ebd5
+      internalID: -442145857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_35
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 881
+        width: 271
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e600050e93efc0d49836aba34fea2c24
+      internalID: 1289647126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_36
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 839
+        width: 245
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a4762767e7eb14f86931c163de52ba
+      internalID: -887729983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_37
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 818
+        width: 239
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dd388eddf84dd41961e56b28900ded
+      internalID: 82461847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_38
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 518
+        width: 266
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445d712b7816a7e42a73181ef7d522a9
+      internalID: 693438478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_39
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 469
+        width: 331
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d785faaa0760f6468f626e7a1c456ba
+      internalID: 1778633054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: activity 4 spritatls new_11
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1677
+        width: 203
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e855e5f53bf80842bb92cfcb1edee3a
+      internalID: 29901202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 64ee1471e0ff6ea408c9615c1f92ec40
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      activity 4 spritatls new_0: -1354698441
+      activity 4 spritatls new_1: 1029817013
+      activity 4 spritatls new_10: -147513238
+      activity 4 spritatls new_11: 29901202
+      activity 4 spritatls new_12: 378500094
+      activity 4 spritatls new_13: 771610479
+      activity 4 spritatls new_14: -1424253147
+      activity 4 spritatls new_15: -946941847
+      activity 4 spritatls new_16: 221726015
+      activity 4 spritatls new_17: -1733939804
+      activity 4 spritatls new_18: -2059179483
+      activity 4 spritatls new_19: -284779948
+      activity 4 spritatls new_2: 162070790
+      activity 4 spritatls new_20: -1408960912
+      activity 4 spritatls new_21: -2025828434
+      activity 4 spritatls new_22: 1480830695
+      activity 4 spritatls new_23: 1174530506
+      activity 4 spritatls new_24: -763146342
+      activity 4 spritatls new_25: -636521496
+      activity 4 spritatls new_26: 563753524
+      activity 4 spritatls new_27: -1373415065
+      activity 4 spritatls new_28: -933664441
+      activity 4 spritatls new_29: 227057737
+      activity 4 spritatls new_3: 21277045
+      activity 4 spritatls new_30: 1547993074
+      activity 4 spritatls new_31: -199049134
+      activity 4 spritatls new_32: -385157768
+      activity 4 spritatls new_33: 108876546
+      activity 4 spritatls new_34: -442145857
+      activity 4 spritatls new_35: 1289647126
+      activity 4 spritatls new_36: -887729983
+      activity 4 spritatls new_37: 82461847
+      activity 4 spritatls new_38: 693438478
+      activity 4 spritatls new_39: 1778633054
+      activity 4 spritatls new_4: 1393023480
+      activity 4 spritatls new_5: -622681557
+      activity 4 spritatls new_6: -1791980321
+      activity 4 spritatls new_7: 1558478240
+      activity 4 spritatls new_8: -124394677
+      activity 4 spritatls new_9: -2085911065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
