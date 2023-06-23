@@ -52,7 +52,7 @@ public class PlayerMovement : MonoBehaviour
         {
             TopGameManager.Instance.Level[1].SetActive(true);
         }
-        else if(other.gameObject.CompareTag("Level3"))
+        else if(other.gameObject.CompareTag("Level6"))
         {
             TopGameManager.Instance.Level[2].SetActive(true);
         }

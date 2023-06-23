@@ -12,6 +12,12 @@ TagManager:
   - Level1
   - Level2
   - Level3
+  - Level6
+  - Group
+  - Line
+  - Pointer
+  - Tool
+  - CharacterPart
   layers:
   - Default
   - TransparentFX
