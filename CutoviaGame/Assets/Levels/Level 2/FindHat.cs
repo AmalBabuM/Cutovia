@@ -19,6 +19,7 @@ public class FindHat : MonoBehaviour
                     if(hit.collider.gameObject.tag=="Hat")
                     {
                         Debug.Log("Congtraz you found the hat ");
+                    TopGameManager.Instance.Level[1].SetActive(false);
                     }
                     else if(hit.collider.gameObject.tag == "Cat")
                     {

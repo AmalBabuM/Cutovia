@@ -145,7 +145,9 @@ public class QuizManager : MonoBehaviour
                 }
                 else
                 {
+                   
                     Debug.Log("Game Complete"); //else game is complete
+                    transform.parent.gameObject.SetActive(false) ;
                     gameComplete.SetActive(true);
                 }
             }

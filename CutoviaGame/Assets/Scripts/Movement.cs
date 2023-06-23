@@ -20,18 +20,28 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
-        
-        if(Input.GetKeyDown(KeyCode.M))
+
+        /*if(Input.GetKeyDown(KeyCode.M))
         {
-           /* Debug.Log(currentCount);*/
+           *//* Debug.Log(currentCount);*//*
             currentCount++;
-            if(currentCount > 2)
+            if(currentCount > 1)
             {
                 currentCount = 0;
             }
             Controll();
+        }*/
+        if (Input.GetKey(KeyCode.W))
+        {
+            currentCount = 1;
+            Controll();
         }
-       
+        else if(!Input.GetKey(KeyCode.W))
+        {
+            currentCount = 0;
+            Controll();
+        }
+
     }
 
     void Controll()
